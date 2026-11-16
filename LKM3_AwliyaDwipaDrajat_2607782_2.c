@@ -70,6 +70,7 @@ int main()
         {
             // Mengosongkan elemen sebelum dijumlahkan
             total[i][j] = 0;
+            //coba nambahin
 
             // Menjumlahkan hasil kali baris A ke-i dengan kolom B ke-j
             for (k = 0; k < BARIS; k++)
